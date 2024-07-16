@@ -1,4 +1,4 @@
 RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /react-login/public/index.html [L]
+RewriteRule . /react2/public/index.html [L]
