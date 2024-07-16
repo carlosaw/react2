@@ -17,4 +17,4 @@
 ## npm install
 
 # Rodar projeto
-## http://localhost/React-Estrutura/public/
+## http://localhost/react2/public/
